@@ -1,3 +1,5 @@
 # Klix Releases
 
-Binary release artifacts (Windows installer + macOS DMGs) for [Klix](https://github.com/leonardo-hagge/Klix), published here so the in-app auto-updater can fetch them without requiring authentication. Source code lives in the private main repo.
+Este repositório armazena apenas os binários de instalação e os arquivos de atualização (`latest.yml` / `latest-mac.yml`) das versões do Klix.
+
+Não contém código-fonte — ele existe só para o instalador detectar e baixar novas versões automaticamente. O código-fonte do Klix fica em um repositório privado separado.
